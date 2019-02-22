@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Weather
+comment0.text=\n\ Write\ a\ description\ of\ class\ Weather\ here.\n\n\ @author\ jon\n\ @version\ 1.0\n
+comment1.params=name
+comment1.target=Weather(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=temp
+comment3.target=int\ findIndexToInsert(int)
+comment4.params=latestTemp
+comment4.target=boolean\ addTempInOrder(int)
+comment5.params=
+comment5.target=int[]\ calcMeanAndMedian()
+comment6.params=
+comment6.target=int\ getMeasure()
+numComments=7
